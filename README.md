@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
-- Live Site URL: [Add live site URL here](https://aarytadwalkar.github.io/Huddle-landing-page/)
+- Solution URL: [FrontEnd mentor solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-1fwP0jzF-3)
+- Live Site URL: [live site](https://aarytadwalkar.github.io/Huddle-landing-page/)
 
 ## My process
 
